@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CheckBoxwithListview.iml" filepath="$PROJECT_DIR$/CheckBoxwithListview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckBox-with-ListView.iml" filepath="$PROJECT_DIR$/CheckBox-with-ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
